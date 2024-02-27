@@ -31,3 +31,4 @@ require (
 )
 
 replace golang.org/x/tools => ../
+replace github.com/goplus/mod => ../../mod
